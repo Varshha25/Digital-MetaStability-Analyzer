@@ -80,10 +80,3 @@ Where:
 - Matplotlib
 - Pandas (optional, for reporting)
 
-## License
-
-MIT License
-
-## Author
-
-VARSHHA K | Mumbai, Maharashtra, IN
